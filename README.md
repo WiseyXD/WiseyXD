@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Nagbanshi</h1>
-<h3 align="center">A passionate javascript developer from India who hates to be called as web developer</h3>
+<h3 align="center">A passionate javascript developer from India who hates to be called as web developer.I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing chess ♜, playing badminton 🏸, ranting about why linux is better than windows 🗣💥, and spending time with my beautiful wife Arch Linux ❤️.</h3>
 
 
 
