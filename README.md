@@ -1,6 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+
 
 <h1 align="center">Hi 👋, I'm Aryan Nagbanshi</h1>
 <h4 align="left">A passionate javascript developer from India who hates to be called as web developer.I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing chess ♜, playing badminton 🏸, ranting about why linux is better than windows 🗣💥, and spending time with my beautiful wife Arch Linux ❤️.</h4>
